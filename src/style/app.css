@@ -1,0 +1,21 @@
+.container{
+  width: 1060px;
+  margin: auto;
+  font-family: "hzgb";
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  cursor: default;
+  background-color: #fff;
+}
+h5{
+  color: #096189;
+}
+html{
+  background-color:#efefef;
+}
+@font-face {
+  font-family: hzgb;       /*这里是说明调用来的字体名字*/
+  src: url('../assets/汉真广标.ttf');   /*这里是字体文件路径*/
+}
